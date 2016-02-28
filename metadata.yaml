@@ -1,0 +1,29 @@
+_repo: Ten-Great-Events-in-History_8507
+creator:
+  author:
+    agent_name: Johonnot, James
+    birthdate: 1823
+    deathdate: 1888
+    gutenberg_agent_id: '2779'
+    url: http://www.gutenberg.org/2009/agents/2779
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History'
+- !lcc 'D'
+- !lcsh 'Readers'
+tableOfContents: Defense of freedom by Greek valor -- Crusades and the crusaders --
+  Defense of freedom in alpine passes -- Bruce and Bannockburn -- Columbus and the
+  New World -- Defense of freedom on Dutch dikes -- The invincible armada -- Freedom's
+  voyage to America -- Plassey; and how an empire was won -- Lexington and Bunker
+  Hill.
+title: Ten Great Events in History
+url: http://www.gutenberg.org/ebooks/8507
